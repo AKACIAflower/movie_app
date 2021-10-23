@@ -11,3 +11,5 @@ React JS Fundamentals
 ## 4. Making the Movie App
 
 ## 5. Deploying to Github Pages
+
+## 6. Router
